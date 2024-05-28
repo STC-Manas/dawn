@@ -147,6 +147,30 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "15106996397570587928": {
+        "type": "shopify:\/\/apps\/css-sales-team\/blocks\/react-contact-card\/a6ae5aca-f111-4e69-b938-3ecc71a9cb81",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "18059259741917788762": {
+        "type": "shopify:\/\/apps\/css-sales-team\/blocks\/back-office\/a6ae5aca-f111-4e69-b938-3ecc71a9cb81",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2773123804676833503": {
+        "type": "shopify:\/\/apps\/css-sales-team\/blocks\/css-salesteam-floatingButton\/a6ae5aca-f111-4e69-b938-3ecc71a9cb81",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6805855278469761672": {
+        "type": "shopify:\/\/apps\/css-sales-team\/blocks\/slide-cart-block\/a6ae5aca-f111-4e69-b938-3ecc71a9cb81",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
