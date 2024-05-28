@@ -141,14 +141,6 @@
     "content_for_index": [
 
     ],
-    "blocks": {
-      "11724500921838622758": {
-        "type": "shopify:\/\/apps\/frequently-bought-together\/blocks\/app-embed-block\/b1a8cbea-c844-4842-9529-7c62dbab1b1f",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -203,6 +195,14 @@
           "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
+        }
+      }
+    },
+    "blocks": {
+      "2152886935495000771": {
+        "type": "shopify:\/\/apps\/nector-loyalty-rewards\/blocks\/floating_widget\/1c1144ea-67f0-4232-93c6-0d8fbb8c8d3a",
+        "disabled": false,
+        "settings": {
         }
       }
     }
