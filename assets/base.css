@@ -3513,9 +3513,3 @@ details-disclosure > details {
   white-space: nowrap;
 }
 
-.price-item svg {
-  width: 14px !important;
-  height: 14px !important;
-  flex-shrink: 0;
-  display: block;
-}
