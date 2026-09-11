@@ -3509,7 +3509,7 @@ details-disclosure > details {
 .price-item {
   display: inline-flex !important;
   align-items: center;
-  gap: 4px;
+  gap: 6px;
   white-space: nowrap;
 }
 
