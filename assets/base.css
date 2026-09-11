@@ -3507,7 +3507,7 @@ details-disclosure > details {
 }
 
 .price-item {
-  display: inline-flex;
+  display: inline-flex !important;
   align-items: center;
   gap: 4px;
   white-space: nowrap;
